@@ -7,7 +7,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 ## Setup
 * Clone this project and open in Unity
 * Set your echoAR API key in the echoAR prefab
-* Add the models from the models folder to the echoAR console
+* Add the models from the [models](/models) folder to the echoAR console
 * For each model, add the corresponding metadata from the metadata folder on the echoAR console
 
 ## Run
